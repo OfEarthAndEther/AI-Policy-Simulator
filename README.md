@@ -96,7 +96,7 @@ python app.py
 
 https://github.com/user-attachments/assets/f0b89e6e-c9e3-427f-9156-a30fa9fb4f64
 
-* Frontend Website: [CCBP Published Link](ofearthandether.ccbp.tech)
+* Frontend Website: [CCBP Published Link](https://ofearthandether.ccbp.tech)
 
 ![CCBP WebApp Link](./assets/ccbp_website.png)
 
